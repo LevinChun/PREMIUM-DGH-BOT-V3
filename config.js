@@ -14,9 +14,9 @@ module.exports = {
       "You got me out on the **{guild}** server, sorry if there's a mistake on me"
   },
   status: {
-    stats: "", //Status Bot <idle, online, dnd , invisible>
-    type: "", //Playing Bot <PLAYING, WATCHING , and others>
-    name: "" //Status Playing
+    stats: "idle", //Status Bot <idle, online, dnd , invisible>
+    type: "PLAYING", //Playing Bot <PLAYING, WATCHING , and others>
+    name: "!help || Nevile BOT " //Status Playing
   },
   dash: {
     secret: "", //SECRET Bot
